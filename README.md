@@ -68,7 +68,7 @@ first prototype in 2021 to today. That covers:
 1. 2021: a single Node script that checked a handful of products.
 2. 2021 to 2022: a Next.js prototype.
 3. 2022: rebuilt from scratch on RedwoodJS. That rebuild is the version running today.
-4. 2024: moved hosting to Railway.
+4. 2023: moved hosting to Railway.
 5. 2026: a production-hardening pass (stability, memory, and data lifecycle work, see below).
 
 ## Engineering highlights
